@@ -3,11 +3,11 @@
 * Author: Yang Juven(yangjuven@gmail.com)
 * Date: Sep 1, 2010
 
-= Description
+== Description
 
 Pytools is a repository to store python tool script.
 
-== Tools Scripts
+== Tool Scripts
 
 * sqlWords.py
   Change sql words in specify file to upper.
