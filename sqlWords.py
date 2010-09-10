@@ -12,7 +12,7 @@ SQLWORDS = (
     "OR", "VALUE", "VALUES", "INTO", "FROM",
     "GROUP", "ORDER", "HAVING", "BY", "OUTFILE",
     "COUNT", "IFNULL", "SUM", "CAST", "IF",
-    "DATE", "NOW", "SET",
+    "DATE", "NOW", "SET", "IS", "NOT", "NULL",
 )
 
 
