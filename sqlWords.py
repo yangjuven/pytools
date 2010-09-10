@@ -10,6 +10,9 @@ SQLWORDS = (
     "INSERT", "DELETE", "SELECT", "UPDATE",
     "WHERE", "JOIN", "ON", "BEWTEEN", "AND",
     "OR", "VALUE", "VALUES", "INTO", "FROM",
+    "GROUP", "ORDER", "HAVING", "BY", "OUTFILE",
+    "COUNT", "IFNULL", "SUM", "CAST", "IF",
+    "DATE", "NOW", "SET",
 )
 
 
