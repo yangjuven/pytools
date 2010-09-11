@@ -11,3 +11,6 @@ Pytools is a repository to store python tool script.
 
 * sqlWords.py
   Change sql words in specify file to upper.
+
+* iptables.py
+  Generate iptable rules by destination port and source ip.
